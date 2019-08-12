@@ -1,0 +1,2 @@
+xmodmap ~/.xmodmap
+firefox

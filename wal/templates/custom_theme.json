@@ -1,0 +1,19 @@
+{{
+    "alternate_base": "{background}",
+    "base": "{background}",
+    "bright_text": "#ffffff",
+    "button": "{color6}",
+    "disabled_button": "{foreground}",
+    "disabled_icon": "#a4a6a8",
+    "disabled_text": "#898d99",
+    "highlight": "{color6}",
+    "highlighted_text": "{foreground}",
+    "icon": "{color14}",
+    "shadow": "#ffffff",
+    "text": "{foreground}",
+    "window": "{background}",
+    "light": "{background}",
+    "dark": "{background}",
+    "unread_badge": "{color14}",
+    "unread_badge_text": "{background}"
+}}

@@ -1,0 +1,7 @@
+[General]
+Radius=20
+Type=Rounded
+SquareAtScreenEdge=true
+FilterShadow=true
+Whitelist=conky
+Blacklist=krunner,display
